@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year Bachelor of Technology in Computer Science and Engineering student at Jaypee Institute of Information Technology. I completed my Major, Minor, and other research projects under the guidance of Dr. Himani Bansal and Dr. Dinesh C. S. Bisht, broadly in the field of Artificial Intelligence and Machine Learning.
+I'm a final year Bachelor of Technology in Computer Science and Engineering student at Jaypee Institute of Information Technology. During my senior years, I undertook multiple research projects broadly in the field of Artificial Intelligence and Machine Learning under the guidance of Dr. Himani Bansal and Dr. Dinesh C. S. Bisht.
 
 Currently, I’m a Research Intern at Networked Wireless Systems Lab, Indian Institute of Technology, Hyderabad, working with Dr. Antony Franklin on the project- Learning Based 360 video caching with Mobile Edge Computing. I work on implementing algorithms like Asynchronous Advantage Actor-Critic (A3C) algorithm of Reinforcement Learning and Long short-term memory (LSTM) network along with Convolutional Neural Network(CNN) for caching of tiles in a 360 video.
 
