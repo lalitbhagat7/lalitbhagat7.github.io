@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year Bachelor of Technology in Computer Science & Engineering student at Jaypee Institute of Information Technology. I am very fortunate to be guided by Dr. Himani Bansal for my Major and Minor project broadly in the domain of **Computer Vision**. I also undertook a research projects in the field of Fuzzy Time Series and Nature Inspired Optimization under the guidance of and Dr. Dinesh C. S. Bisht.
+I'm a final year Bachelor of Technology in Computer Science & Engineering student at Jaypee Institute of Information Technology. I am very fortunate to be guided by Dr. Himani Bansal for my Major and Minor projects broadly in the domain of **Computer Vision**. I also undertook a research project in the field of Fuzzy Time Series and Nature Inspired Optimization under the guidance of and Dr. Dinesh C. S. Bisht.
 
 Currently, I’m a Research Intern at Networked Wireless Systems Lab, Indian Institute of Technology, Hyderabad, working with Dr. Antony Franklin on the project- Learning Based 360 video caching with Mobile Edge Computing. I work on implementing algorithms like Asynchronous Advantage Actor-Critic (A3C) algorithm of Reinforcement Learning and Long short-term memory (LSTM) network along with Convolutional Neural Network(CNN) for caching of tiles in a 360 video.
 
