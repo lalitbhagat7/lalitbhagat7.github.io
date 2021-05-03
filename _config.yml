@@ -86,7 +86,7 @@ author:
   location         : "Noida, India"
   employer         : #"Indian Institute of Technology, IIT Hyderabad"
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
- # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=wQVegQ4AAAAJ"
   email            : lalitbhagat777@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "lalitbhagat7"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "lalitbhagat7"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : https://www.linkedin.com/in/lalitbhagat7/
