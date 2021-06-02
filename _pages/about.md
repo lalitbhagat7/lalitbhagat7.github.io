@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year Bachelor of Technology in Computer Science & Engineering student at Jaypee Institute of Information Technology. I am very fortunate to be guided by Dr. Himani Bansal for my Major and Minor projects broadly in the domain of Computer Vision. I also undertook a research project in the field of Fuzzy Time Series and Nature Inspired Optimization under the guidance of Dr. Dinesh C. S. Bisht.
+I'm an incoming M.S. in Computer Science graduate student at University of California Los Angeles (**UCLA**), starting fall 2021.
 
-Currently, I’m a Research Intern at Networked Wireless Systems Lab, Indian Institute of Technology, Hyderabad, working with Dr. Antony Franklin on the project- Learning Based 360 video caching with Mobile Edge Computing. I work on implementing algorithms like Asynchronous Advantage Actor-Critic (A3C) algorithm of Reinforcement Learning and Long short-term memory (LSTM) network along with Convolutional Neural Network(CNN) for caching of tiles in a 360 video. Previously, I also worked with Gurugram Cyber Cell on a Machine Learning + Cyber Security integrated tool under the mentorship of Mr. Rakshit Tandon.
+Previously, I did my Bachelor of Technology in Computer Science & Engineering student at Jaypee Institute of Information Technology. I was very fortunate to be guided by [Dr. Himani Bansal](http://www.jiit.ac.in/dr-himani-bansal) for my Major and Minor projects broadly in the domain of Computer Vision. I also undertook a research project in the field of Time Series analysis under the guidance of [Dr. Dinesh C. S. Bisht](https://scholar.google.co.in/citations?user=0r3Ld38AAAAJ&hl=en).
 
-I am inclined towards designing products and solutions using **Artificial Intelligence and Machine Learning**, especially in **Healthcare, Cognitive Science, and Robotics** which can help a large number of people improve the way they work and live. I am still exploring the space of problems in these areas and yet to decide on any specific problem on which I would like to do my research. 
+I also worked as a Research Intern at NeWS Lab, IIT Hyderabad, with [Dr. Antony Franklin](https://www.iith.ac.in/~antony/). I implemented algorithms like Asynchronous Advantage Actor-Critic (A3C) of Reinforcement Learning and LSTM, along with CNN for caching of tiles in a 360 degree video. During summers of my UG, I worked with Gurugram Cyber Cell on a Machine Learning + Cyber Security integrated tool under the mentorship of [Mr. Rakshit Tandon](https://www.rakshittandon.com/).
+
+I am inclined towards designing products and solutions using **Artificial Intelligence** and **Machine Learning**, especially in **Healthcare, Cognitive Science, and Robotics** which can help a large number of people improve the way they work and live. I am still exploring the space of problems in these areas and yet to decide on any specific problem on which I would like to do my research. 
 
 Research Interests
-======
-Deep/Reinforcement Learning, Computer Vision, Medical Imaging, Time Series Analysis, Nature-Inspired Algorithms
+==================
+Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, Medical Imaging, Time Series Analysis, Nature-Inspired Algorithms
