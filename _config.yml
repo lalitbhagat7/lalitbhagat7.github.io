@@ -10,7 +10,7 @@ locale                   : "Noida, India"
 title                    : "Lalit's Webpage"
 title_separator          : "-"
 name                     : &name "Lalit Bhagat"
-description              : &description "Engineering student"
+description              : &description "Graduate student at UCLA"
 url                      : https://lalitbhagat7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lalitbhagat7.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lalit Bhagat"
   avatar           : "my pic.jpg"
-  bio              : "Undergraduate Researcher"
+  bio              : "Incoming MS CS grad at UCLA"
   location         : "Noida, India"
   employer         : #"Indian Institute of Technology, IIT Hyderabad"
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,7 +99,6 @@ author:
   github           : "lalitbhagat7"
   google_plus      :
   keybase          :
-  instagram        : "lalitbhagat7"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : https://www.linkedin.com/in/lalitbhagat7/
@@ -116,6 +115,7 @@ author:
   youtube          :
   scopus           : "https://www.scopus.com/results/authorNamesList.uri?sort=count-f&src=al&affilName=Jaypee+institute+of+information+technology&sid=321baae451cfac7404211cb061d32ffa&sot=al&sdt=al&sl=95&s=AUTHLASTNAME%28Bhagat%29+AND+AUTHFIRST%28Lalit%29+AND+AFFIL%28Jaypee+institute+of+information+technology%29&st1=Bhagat&st2=Lalit&orcidId=&selectionPageSearch=anl&reselectAuthor=false&activeFlag=true&showDocument=false&resultsPerPage=20&offset=1&jtp=false&currentPage=1&previousSelectionCount=0&tooManySelections=false&previousResultCount=0&authSubject=LFSC&authSubject=HLSC&authSubject=PHSC&authSubject=SOSC&exactAuthorSearch=false&showFullList=false&authorPreferredName=&origin=searchauthorfreelookup&affiliationId=&txGid=c41e7a15c56326c8f00bfdfffe0d7e67"
   wikipedia        :
+  instagram        : "lalitbhagat7"
   
 
 # Reading Files
