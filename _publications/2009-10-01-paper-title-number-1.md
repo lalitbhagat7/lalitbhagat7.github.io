@@ -10,6 +10,6 @@ citation: 'Bhagat, L., Goyal, G., Bisht, D.C.S., Ram, M. and Kazancoglu, Y. (202
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Link](https://doi.org/10.1108/TQM-10-2020-0243)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Bhagat, L., Goyal, G., Bisht, D.C.S., Ram, M. and Kazancoglu, Y. (2021), ”Air quality management using genetic algorithm based heuristic fuzzy time series model”, The TQM Journal, Vol.  ahead-of-print No.ahead-of-print. https://doi.org/10.1108/TQM-10-2020-0243
