@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming M.S. in Computer Science graduate student at University of California, Los Angeles (**UCLA**), starting fall 2021.
+I'm an incoming M.S. in Computer Science graduate student at the University of California, Los Angeles (**UCLA**), starting fall 2021.
 
 Previously, I did my Bachelor of Technology in Computer Science & Engineering student at Jaypee Institute of Information Technology. I was very fortunate to be guided by [Dr. Himani Bansal](http://www.jiit.ac.in/dr-himani-bansal) for my Major and Minor projects broadly in the domain of Computer Vision. I also undertook a research project on Time Series analysis under the guidance of [Dr. Dinesh C. S. Bisht](https://scholar.google.co.in/citations?user=0r3Ld38AAAAJ&hl=en).
 
