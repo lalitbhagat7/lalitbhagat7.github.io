@@ -10,7 +10,7 @@ redirect_from:
 
 I'm an incoming M.S. in Computer Science graduate student at the University of California, Los Angeles (**UCLA**), starting fall 2021.
 
-Previously, I did my Bachelor of Technology in Computer Science & Engineering at Jaypee Institute of Information Technology. I was very fortunate to be guided by [Dr. Himani Bansal](http://www.jiit.ac.in/dr-himani-bansal) for my Major and Minor projects broadly in the domain of Computer Vision. I also undertook a research project on Time Series analysis under the guidance of [Dr. Dinesh C. S. Bisht](https://scholar.google.co.in/citations?user=0r3Ld38AAAAJ&hl=en).
+Previously, I did my Bachelor of Technology in Computer Science & Engineering from Jaypee Institute of Information Technology. I was very fortunate to be guided by [Dr. Himani Bansal](http://www.jiit.ac.in/dr-himani-bansal) for my Major and Minor projects broadly in the domain of Computer Vision. I also undertook a research project on Time Series analysis under the guidance of [Dr. Dinesh C. S. Bisht](https://scholar.google.co.in/citations?user=0r3Ld38AAAAJ&hl=en).
 
 I also worked as a Research Intern at NeWS Lab, IIT Hyderabad, with [Dr. Antony Franklin](https://www.iith.ac.in/~antony/). I implemented algorithms like A3C of Reinforcement Learning, LSTM, along with CNN for caching of tiles in a 360 degree video. During summers of my UG, I worked with Gurugram Cyber Cell on a Machine Learning + Cyber Security integrated tool under the mentorship of [Mr. Rakshit Tandon](https://www.rakshittandon.com/).
 
