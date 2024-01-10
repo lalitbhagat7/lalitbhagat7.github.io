@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS CS @ UCLA | Student Researcher @ Zhou Lab | Teaching Associate
+subtitle: Incoming Applied Scientist at Amazon
 
 profile:
   align: right
