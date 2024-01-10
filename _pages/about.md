@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MS CS @ UCLA | Student Researcher @ Zhou Lab | Teaching Associate
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Los Angeles, CA 12345</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
+news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I graduated with a Master of Science degree in Computer Science from the University of California, Los Angeles (UCLA), where I was advised by [Prof. Bolei Zhou](https://boleizhou.github.io/lab/) and [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/). I was honored to receive the prestigious Graduate Council Diversity Fellowship at UCLA, which significantly supported my education journey. Prior to this, I earned my Bachelor’s degree in Computer Science & Engineering from JIIT, India.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my academic journey, I had the opportunity to work as a Teaching Associate (formerly Teaching Assistant) six times for five different courses at UCLA, which ignited my passion for teaching. You can check out my teaching reviews. In addition to my technical expertise, I also possess a background in Psychology, bringing depth to my approach to education and the learning process.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond my academic pursuits, I enjoy indulging in my creative hobbies, such as **photography**, sketching, and reading. Some of my photographic work has been featured on the social media pages of @ucla on Instagram, LinkedIn, Facebook, and Twitter.
+
+Research Interests
+==================
+Computer Vision, Generative AI, Human-AI interaction
