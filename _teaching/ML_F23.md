@@ -1,3 +1,22 @@
+---
+layout: page
+title: Machine Learning
+description: Fall '23 <br> Rating 8.71/9 
+img: assets/img/12.jpg
+importance: 1
+category: Teaching Associate (UCLA)
+related_publications: false
+---
+
+Advanced MATLAB for Behavioral Sciences (PSYCH 20B) <br>
+Master of Science in Business Analytics, Anderson School of Management, University of California, Los Angeles (UCLA)
+
+
+---
+
+Anonymous Student Evaluations
+======
+
 I think the TA session is awesome.
 
 Lalit was helpful in helping us understand complex concepts. Machine learning isn't an easy topic, especially for someone with a Business background, and I learned a lot every time I went to his TA sessions. He is willing to lend a hand and offer help whenever he can.
@@ -69,7 +88,16 @@ You are more helpful than the professor! Thank you!!
 
 Lalit is a person who I believe a lot of us relate to. He creates a very comfortable environment for learning and clarifying doubts. He is also clearly knowledgeable about the contents of the class who he is the TA for
 
+--- 
+
+Weekly feedback
+======
+
+---
+
 strengths: Lalit gives a real-world perspective, and explains in a easy to understand way with visualizations and well organized (and fun) materials
 weakness: not familiar with some concepts (but not a big problem, we can easily find resources online)
 
 The TA sessions were very helpful in building intuition about various ML concepts.
+
+
