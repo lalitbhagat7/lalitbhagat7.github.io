@@ -2,10 +2,10 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: A growing collection of your cool projects.
+description: Click on any course to discover student reviews.
 nav: true
 nav_order: 4
-display_categories: [Teaching Assistant]
+display_categories: [Teaching Associate, Teaching Assistant]
 horizontal: false
 ---
 
