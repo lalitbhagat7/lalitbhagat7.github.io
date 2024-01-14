@@ -172,9 +172,15 @@ You are the best TA
 
 Thank you for going above and beyond to help us. You did your best with the TA sessions and it showed. All the very best for your Amazon job, I am certain you will do well :)
 
+honestly nothing you are a life saver
+
+You did a great job. I liked how you helped us understand the homework better. As someone with no coding knowledge prior to doing this Master's program, I found it extremely helpful for my learning.
+
 Really enjoyed your TA sessions - it was informative and helped break down difficult concepts so that they're easy so understand.
 
 Thank you for making Machine learning interesting for all of us! Your sessions were really helpful and good luck for Amazon!
+
+You did a great job. I liked how you helped us understand the homework better. As someone with no coding knowledge prior to doing this Master's program, I found it extremely helpful for my learning.
 
 Learning through memes is effective
 
@@ -190,6 +196,8 @@ Superb job
 good class! love the memes
 
 You are great!
+
+The content is great! Thank you :)
 
 Thank you for the great session!
 
