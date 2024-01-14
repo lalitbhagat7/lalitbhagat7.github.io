@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded the Graduate Council Diversity Fellowship (GCDF) for the 2022-2023 academic year.
+Honored to be awarded the prestigious Graduate Council Diversity Fellowship for the 2022-2023 academic year at UCLA. This fellowship will significantly support my educational journey.
