@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Click on any course to discover student reviews.
 nav: true
 nav_order: 4
-display_categories: [Teaching Associate, Teaching Assistant]
+display_categories: [Teaching Associate (UCLA), Teaching Assistant (UCLA)]
 horizontal: false
 ---
 
