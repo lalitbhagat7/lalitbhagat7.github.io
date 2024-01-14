@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MATLAB
-description: Winter '23 <br> Rating /9 
+description: Summer '23 (Remote) <br> Rating 8.26/9 
 importance: 3
 category: Teaching Associate (UCLA)
 related_publications: false
@@ -17,6 +17,21 @@ Department of Psychology, University of California, Los Angeles (UCLA)
 Anonymous Student Evaluations
 ======
 
+Lalit was very helpful when he answered his emails and made me feel comfortable asking questions.
+His sections did a good job of going over similar material to the homework and projects. Thanks Lalit!
+
+Our TA was very good at explaining things and always made himself available to answer any questions.
+Overall, Lalit was a great TA!
+
+The TA tried to make lab sections as interactive as possible, which is great. Questions were always
+welcome. The sections really helped me with completing the homework.
+
+The TA was great, and made sure to touch on topics that would be asked in the homework. He also
+made sure to elaborate further on all of the homework, and gave tips on how to figure out problems. He was very knowledgable and caring about student understanding.
+
+This T.A. seemed very friendly and open to questions. He put in the extra effort, and despite this being a remote class, he vowed to send people chocolates in the mail for participation during labs.
+
+Very helpful!
 
 --- 
 
@@ -40,9 +55,5 @@ Going over similar problems that were on the homework
 Code examples with descriptions
 
 Thank you so much! It was very helpful
-
-The examples similar to the HW
-
-Homework hints
 
 --- 
