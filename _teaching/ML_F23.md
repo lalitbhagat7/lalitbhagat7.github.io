@@ -2,7 +2,6 @@
 layout: page
 title: Machine Learning
 description: Fall '23 <br> Rating 8.71/9 
-img: assets/img/12.jpg
 importance: 1
 category: Teaching Associate (UCLA)
 related_publications: false
