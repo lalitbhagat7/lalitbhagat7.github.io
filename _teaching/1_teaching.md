@@ -8,7 +8,7 @@ category: Teaching Assistant
 related_publications: false
 ---
 
-Advanced MATLAB for Behavioral Sciences (PSYCH 20B)
+Advanced MATLAB for Behavioral Sciences (PSYCH 20B) <br>
 Department of Psychology, University of California, Los Angeles (UCLA)
 
 
