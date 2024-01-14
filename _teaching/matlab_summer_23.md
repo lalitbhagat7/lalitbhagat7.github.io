@@ -20,8 +20,29 @@ Anonymous Student Evaluations
 
 --- 
 
-Weekly feedback
+What do you think was the best part about the lab section/TA? 
 ======
 
+The live scripts make it very interactive, keeps me engaged, and allows me to practice the skills I just learned.
+
+I was very happy with everything you did!
+
+The homework hints really helped clear some confusion and gave me confidence.
+
+I got to understand new concepts.
+
+the examples, and showing us multiple ways to solve a problem
+
+The live scripts were once again very helpful in hammering in the concepts and helping with the homework. Thank you!!!
+
+Going over similar problems that were on the homework
+
+Code examples with descriptions
+
+Thank you so much! It was very helpful
+
+The examples similar to the HW
+
+Homework hints
 
 --- 
