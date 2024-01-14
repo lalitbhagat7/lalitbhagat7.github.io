@@ -4,7 +4,7 @@ title: teaching 1
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: Teaching Assistant
+category: Teaching Assistan
 related_publications: true
 ---
 
