@@ -146,6 +146,75 @@ Great sessions. All the best for your journey ahead!
 
 Thank you lalit~
 
+---
+
+**What do you think was the best part about the lab section/TA? **
+
+Interactive session. 
+
+The session was very informative and interactive! I learned a lot in a lot less time
+
+Understanding pros and cons of different packages
+
+YOU ARE GREAT LECTURER
+
+Going over the basics
+
+Extremely helpful
+
+Helping with assignments
+
+The humour
+
+Going over each concepts and code blocks carefully
+
+Delivery of the learning in a great format!
+
+Knowledgable, Frank and was able to explain things  nicely
+
+Related with the homework
+
+Chocolate
+
+Interaction
+
+Insights into ML approaches. Would love to see more dive into ML in the coming weeks.
+
+The fun, memes, coding and not just talking about the codes! best TA class I have attended so far
+
+You were explaining things clearly
+
+hw hints
+
+Providing additional color into why were are doing the questions that were assigned. They are meant to help us understand deeper a specific topic about machine learning. 
+
+Class Engagement and actually covering relevant material. Your enthusiasm was very much appreciated as well.
+
+chocolates
+
+not everybody knows python well so having exercises similar to the hw helps
+
+Everything explained is foundamental and clear. Super helpful especially for students from non-technical background like me!
+
+the interactive environment
+
+very organized materials, explanation of the concept in the easy to understand way (like I am 5 years old), and good interaction to keep me focused
+
+It''s interesting and can tell that TA put a lot of effort in preparing the material
+going through the examples step-by-step
+
+TA is really helpful
+
+the step by step analisis
+Go over the sample solution of hw.
+
+Helpful for HW
+
+chocolates
+
+The class was very informative and interactive!
+
+Hyperparameters is a useful method, would use it in the future.
 
 ---
 
