@@ -118,23 +118,9 @@ Superb job
 
 good class! love the memes
 
-Great
-
-Awesome!
-
-Great session
-
-Very good~
-
-Excellent
-
 You are great!
 
 Thank you for the great session!
-
-good
-
-Great TA sessions!
 
 Great lab sessions! Thank you for having us for the past 5 weeks!
 
@@ -150,25 +136,25 @@ Thank you lalit~
 
 **What do you think was the best part about the lab section/TA? **
 
-Interactive session. 
-
-The session was very informative and interactive! I learned a lot in a lot less time
-
-Understanding pros and cons of different packages
 
 YOU ARE GREAT LECTURER
 
-Going over the basics
+The fun, memes, coding and not just talking about the codes! best TA class I have attended so far
 
-Extremely helpful
-
-Helping with assignments
+It''s interesting and can tell that TA put a lot of effort in preparing the material
+going through the examples step-by-step
 
 The humour
 
-Going over each concepts and code blocks carefully
+Everything explained is foundamental and clear. Super helpful especially for students from non-technical background like me!
 
 Delivery of the learning in a great format!
+
+the interactive environment
+
+very organized materials, explanation of the concept in the easy to understand way (like I am 5 years old), and good interaction to keep me focused
+
+Going over each concepts and code blocks carefully
 
 Knowledgable, Frank and was able to explain things  nicely
 
@@ -176,13 +162,19 @@ Related with the homework
 
 Chocolate
 
+You were explaining things clearly
+
 Interaction
 
 Insights into ML approaches. Would love to see more dive into ML in the coming weeks.
 
-The fun, memes, coding and not just talking about the codes! best TA class I have attended so far
+TA is really helpful
 
-You were explaining things clearly
+Going over the basics
+
+Extremely helpful
+
+Helping with assignments
 
 hw hints
 
@@ -192,18 +184,13 @@ Class Engagement and actually covering relevant material. Your enthusiasm was ve
 
 chocolates
 
+Interactive session. 
+
+The session was very informative and interactive! I learned a lot in a lot less time
+
+Understanding pros and cons of different packages
+
 not everybody knows python well so having exercises similar to the hw helps
-
-Everything explained is foundamental and clear. Super helpful especially for students from non-technical background like me!
-
-the interactive environment
-
-very organized materials, explanation of the concept in the easy to understand way (like I am 5 years old), and good interaction to keep me focused
-
-It''s interesting and can tell that TA put a lot of effort in preparing the material
-going through the examples step-by-step
-
-TA is really helpful
 
 the step by step analisis
 Go over the sample solution of hw.
