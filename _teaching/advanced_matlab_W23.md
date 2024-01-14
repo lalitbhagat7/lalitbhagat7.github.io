@@ -9,6 +9,7 @@ related_publications: false
 
 **Teaching Associate** <br>
 Advanced MATLAB for Behavioral Sciences (PSYCH 20B) <br>
+
 Department of Psychology, University of California, Los Angeles (UCLA)
 
 ---
