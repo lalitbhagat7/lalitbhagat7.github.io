@@ -8,8 +8,9 @@ category: Teaching Associate (UCLA)
 related_publications: false
 ---
 
-Machine Learning for Decision Making (MGMTMSA 401) <br>
-Master of Science in Business Analytics, Anderson School of Management, University of California, Los Angeles (UCLA)
+**Machine Learning for Decision Making (MGMTMSA 401)** <br>
+<br>
+**Master of Science in Business Analytics, Anderson School of Management, University of California, Los Angeles (UCLA)**
 
 
 ---
@@ -93,49 +94,8 @@ Your TA session really helped me a lot in understanding the course material and 
 
 --- 
 
-Weekly feedback
+What do you think was the best part about the lab section/TA? 
 ======
-
-
-You are the best TA
-
-Thank you for going above and beyond to help us. You did your best with the TA sessions and it showed. All the very best for your Amazon job, I am certain you will do well :)
-
-Really enjoyed your TA sessions - it was informative and helped break down difficult concepts so that they're easy so understand.
-
-Thank you for making Machine learning interesting for all of us! Your sessions were really helpful and good luck for Amazon!
-
-Learning through memes is effective
-
-Awesome having you as the TA and all the best for the future! :)
-
-thank you so much for your constant efforts to make it interesting
-
-Thx for a well-prepared session! Really helpful!
-
-Helpful as always! Thanks!
-Superb job
-
-good class! love the memes
-
-You are great!
-
-Thank you for the great session!
-
-Great lab sessions! Thank you for having us for the past 5 weeks!
-
-great TA!
-
-Great TA session
-
-Great sessions. All the best for your journey ahead!
-
-Thank you lalit~
-
----
-
-**What do you think was the best part about the lab section/TA? **
-
 
 YOU ARE GREAT LECTURER
 
@@ -202,6 +162,46 @@ chocolates
 The class was very informative and interactive!
 
 Hyperparameters is a useful method, would use it in the future.
+
+---
+
+Weekly feedback
+======
+
+You are the best TA
+
+Thank you for going above and beyond to help us. You did your best with the TA sessions and it showed. All the very best for your Amazon job, I am certain you will do well :)
+
+Really enjoyed your TA sessions - it was informative and helped break down difficult concepts so that they're easy so understand.
+
+Thank you for making Machine learning interesting for all of us! Your sessions were really helpful and good luck for Amazon!
+
+Learning through memes is effective
+
+Awesome having you as the TA and all the best for the future! :)
+
+thank you so much for your constant efforts to make it interesting
+
+Thx for a well-prepared session! Really helpful!
+
+Helpful as always! Thanks!
+Superb job
+
+good class! love the memes
+
+You are great!
+
+Thank you for the great session!
+
+Great lab sessions! Thank you for having us for the past 5 weeks!
+
+great TA!
+
+Great TA session
+
+Great sessions. All the best for your journey ahead!
+
+Thank you lalit~
 
 ---
 
