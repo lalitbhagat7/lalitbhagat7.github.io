@@ -3,7 +3,7 @@ layout: page
 title: Advanced MATLAB
 description: Winter '23 <br> Rating 8.69/9 
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: Teaching Associate (UCLA)
 related_publications: false
 ---
