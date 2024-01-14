@@ -8,10 +8,8 @@ category: Teaching Associate (UCLA)
 related_publications: false
 ---
 
-Winter '23
 Advanced MATLAB for Behavioral Sciences (PSYCH 20B) <br>
 Department of Psychology, University of California, Los Angeles (UCLA)
-
 
 ---
 
@@ -136,7 +134,7 @@ homework and help a lot"
 
 --- 
 
-Unofficial feedback
+Weekly feedback
 ======
 
 "ur memes are great and thank you for the chocolate!"
