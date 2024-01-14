@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advanced MATLAB
-description: Rating: 8.69/9
+description: Rating 8.69/9
 img: assets/img/12.jpg
 importance: 1
 category: Teaching Assistant
