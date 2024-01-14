@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new research paper [SpatialGAN](ttps://genforce.github.io/SpatialGAN/) is out.
+Our new research paper [SpatialGAN](https://genforce.github.io/SpatialGAN/) is out.
