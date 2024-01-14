@@ -4,7 +4,7 @@ title: teaching 1
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: Teaching Associate
+category: Teaching Assistant
 related_publications: true
 ---
 
@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: teaching
+    title: teaching 1
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
