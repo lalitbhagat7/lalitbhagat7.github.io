@@ -2,7 +2,7 @@
 layout: page
 title: SQL
 description: Fall '22 <br> Rating N/A
-importance: 1
+importance: 3
 category: Teaching Assistant (UCLA)
 related_publications: false
 ---
