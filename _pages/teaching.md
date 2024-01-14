@@ -3,7 +3,7 @@ layout: page
 title: teaching
 permalink: /teaching/
 description: A growing collection of your cool projects.
-nav: false
+nav: true
 nav_order: 4
 display_categories: [Teaching Assistant]
 horizontal: false
