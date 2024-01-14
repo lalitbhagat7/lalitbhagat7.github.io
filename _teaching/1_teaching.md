@@ -241,7 +241,3 @@ Unofficial feedback
 "Thanks for being such a great TA! I had a great quarter because of you!"
 
 --- 
-
-
-{% endraw %}
-
