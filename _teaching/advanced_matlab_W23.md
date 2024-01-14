@@ -1,13 +1,14 @@
 ---
 layout: page
 title: Advanced MATLAB
-description: Rating 8.69/9
+description: Winter '23 <br> Rating 8.69/9 
 img: assets/img/12.jpg
 importance: 1
 category: Teaching Associate (UCLA)
 related_publications: false
 ---
 
+Winter '23
 Advanced MATLAB for Behavioral Sciences (PSYCH 20B) <br>
 Department of Psychology, University of California, Los Angeles (UCLA)
 
