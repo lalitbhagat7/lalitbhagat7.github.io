@@ -17,31 +17,23 @@ Master of Science in Business Analytics, Anderson School of Management, Universi
 Anonymous Student Evaluations
 ======
 
-I think the TA session is awesome.
+
 
 Lalit was helpful in helping us understand complex concepts. Machine learning isn't an easy topic, especially for someone with a Business background, and I learned a lot every time I went to his TA sessions. He is willing to lend a hand and offer help whenever he can.
-
-strengths: structured material, good compliment and explanation provided for course material weakness: since we only have limited time, it's important to have the key concept delivered in the most efficient ways
 
 Lalit is better than the professor.
 
 Very personable and approachable. Provided a personalized learning experience even with 80 people in each session
 
-Your TA session really helped me a lot in understanding the course material and I appreciate the practicality of your tips/advices.
-
 Open for communications, ready to help and support. Knows material and able to share it easily
+
+Lalit is a person who I believe a lot of us relate to. He creates a very comfortable environment for learning and clarifying doubts. He is also clearly knowledgeable about the contents of the class who he is the TA for
 
 Very engaging sessions and really helped clear a lot of basic concepts that were not clarified in the class
 
 Lalit effectively explained concepts from the lecture and cleared any confusion we had from our lecture with the professor. Great TA.
 
-Very clear at explaining material and made it easy to understand.
 
-really helpfulllllllll
-
-Great and well organized TA lab sessions. Thank you for having us for the past 5 weeks!
-
-Codes and code explanations are very helpful!
 
 Lalit is an excellent TA and is very knowledgeable. I got to learn more from his TA sessions than from the professor himself. Lalit also knows his stuff well and his TA sessions are very interactive, informative and engaging.
 
@@ -86,7 +78,20 @@ Lalit is highly knowledgable of ML applications in theory and in practice. He is
 
 You are more helpful than the professor! Thank you!!
 
-Lalit is a person who I believe a lot of us relate to. He creates a very comfortable environment for learning and clarifying doubts. He is also clearly knowledgeable about the contents of the class who he is the TA for
+Very clear at explaining material and made it easy to understand.
+
+really helpfulllllllll
+
+Great and well organized TA lab sessions. Thank you for having us for the past 5 weeks!
+
+Codes and code explanations are very helpful!
+
+I think the TA session is awesome.
+
+strengths: structured material, good compliment and explanation provided for course material weakness: since we only have limited time, it's important to have the key concept delivered in the most efficient ways
+
+Your TA session really helped me a lot in understanding the course material and I appreciate the practicality of your tips/advices.
+
 
 --- 
 
