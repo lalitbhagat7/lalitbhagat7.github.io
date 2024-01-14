@@ -17,6 +17,7 @@ Master of Science in Business Analytics, Anderson School of Management, Universi
 Anonymous Student Evaluations
 ======
 
+
 Strength: great TA overall. Weakness: only lead the TA session instead of the entire curriculum :)
 
 Lalit has a great understanding of the concepts he taught us in our Machine Learning class. He was genuinely interested to help out students with their conceptual understanding and was too patient to listen to our issues during the class. Very helpful and knowledeable person with an honest intention to improve and learn on the go. Thank you!
@@ -94,6 +95,57 @@ Your TA session really helped me a lot in understanding the course material and 
 
 Weekly feedback
 ======
+
+
+You are the best TA
+
+Thank you for going above and beyond to help us. You did your best with the TA sessions and it showed. All the very best for your Amazon job, I am certain you will do well :)
+
+Really enjoyed your TA sessions - it was informative and helped break down difficult concepts so that they're easy so understand.
+
+Thank you for making Machine learning interesting for all of us! Your sessions were really helpful and good luck for Amazon!
+
+Learning through memes is effective
+
+Awesome having you as the TA and all the best for the future! :)
+
+thank you so much for your constant efforts to make it interesting
+
+Thx for a well-prepared session! Really helpful!
+
+Helpful as always! Thanks!
+Superb job
+
+good class! love the memes
+
+Great
+
+Awesome!
+
+Great session
+
+Very good~
+
+Excellent
+
+You are great!
+
+Thank you for the great session!
+
+good
+
+Great TA sessions!
+
+Great lab sessions! Thank you for having us for the past 5 weeks!
+
+great TA!
+
+Great TA session
+
+Great sessions. All the best for your journey ahead!
+
+Thank you lalit~
+
 
 ---
 
