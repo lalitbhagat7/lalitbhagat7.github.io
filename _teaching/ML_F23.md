@@ -7,9 +7,10 @@ category: Teaching Associate (UCLA)
 related_publications: false
 ---
 
-**Machine Learning for Decision Making (MGMTMSA 401)** <br>
-<br>
-**Master of Science in Business Analytics, Anderson School of Management, University of California, Los Angeles (UCLA)**
+**Teaching Associate** <br>
+Machine Learning for Decision Making (MGMTMSA 401) <br>
+
+Master of Science in Business Analytics, Anderson School of Management, University of California, Los Angeles (UCLA)
 
 
 ---
