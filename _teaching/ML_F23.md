@@ -229,8 +229,8 @@ Thank you so much for your dedication and encouragement. I am confident that wit
 Wishing you a future filled with continued success and new achievements. 
 May your path be illuminated with countless victories!
 
-Best regards,
-_a student_ 
+Best regards, <br>
+_a student,_ <br>
 MSBA 2024"
 
 
@@ -242,7 +242,7 @@ It’s a pleasure for me to have you as our TA, you certainly had went above and
 
 Thank you so much Lalit! 
 
-Sincerely,
+Sincerely, <br>
 _a student_"
 
 ---
