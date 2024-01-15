@@ -213,4 +213,36 @@ Thank you lalit~
 
 ---
 
+Emails
+======
 
+"Hi Lalit,
+
+I hope this message finds you well. 
+
+I have completed the final project, and I wanted to take a moment to express my sincere gratitude to you.
+
+Your passion for our cohort has been truly inspiring. Not only did you excel in teaching the intricacies of the subject matter, but your commitment to providing insights into career development, including the helpful LinkedIn hack, has been invaluable. Your overall support throughout the course has made a significant difference in my learning experience.
+
+Thank you so much for your dedication and encouragement. I am confident that without your guidance, the journey through this ML course would have been much more challenging.
+
+Wishing you a future filled with continued success and new achievements. 
+May your path be illuminated with countless victories!
+
+Best regards,
+_a student_ 
+MSBA 2024"
+
+
+"Dear Lalit,
+
+Thank you for being so understanding and being willing to help and support at all times. 
+
+It’s a pleasure for me to have you as our TA, you certainly had went above and beyond in helping and supporting us.
+
+Thank you so much Lalit! 
+
+Sincerely,
+_a student_"
+
+---
