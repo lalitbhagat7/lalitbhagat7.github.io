@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming Applied Scientist at Amazon
+subtitle: Applied Scientist at Amazon
 
 profile:
   align: right
@@ -17,7 +17,7 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-I graduated with a Master of Science degree in Computer Science from the University of California, Los Angeles (**UCLA**), where I was advised by [Prof. Bolei Zhou](https://boleizhou.github.io/lab/) and [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/). Prior to this, I earned my Bachelor’s degree with honours in Computer Science & Engineering from JIIT, India.
+Recently graduated with a Master of Science degree in Computer Science from the University of California, Los Angeles (**UCLA**), where I was advised by [Prof. Bolei Zhou](https://boleizhou.github.io/lab/) and [Prof. Cho-Jui Hsieh](https://web.cs.ucla.edu/~chohsieh/). Prior to this, I earned my Bachelor’s degree with honours in Computer Science & Engineering from JIIT, India.
 
 During my academic journey, I had the opportunity to work as a Teaching Associate (formerly Teaching Assistant) at UCLA. You can find my teaching reviews and ratings [here](https://lalitbhagat7.github.io/teaching/).
 
