@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Amazon as an Applied Scientist. 
+Joined Amazon as an Applied Scientist.

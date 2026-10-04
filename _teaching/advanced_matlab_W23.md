@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advanced MATLAB
-description: Winter '23 <br> Rating 8.69/9 
+description: Winter '23 <br> Rating 8.69/9
 importance: 2
 category: Teaching Associate (UCLA)
 related_publications: false
@@ -14,8 +14,7 @@ Department of Psychology, University of California, Los Angeles (UCLA)
 
 ---
 
-Anonymous Student Evaluations
-======
+# Anonymous Student Evaluations
 
 "Lalit was one of the best TAs I have had because he genuinely put in an effort in discussions. He
 wanted participation even when our lab was not the most talkative and was patient in making sure
@@ -133,10 +132,9 @@ homework and help a lot"
 
 "ty for labs and chocolate :D"
 
---- 
+---
 
-Weekly feedback
-======
+# Weekly feedback
 
 "ur memes are great and thank you for the chocolate!"
 
@@ -204,7 +202,7 @@ Weekly feedback
 
 "The lab is super helpful thank you for your help!"
 
-"Great discussion  section as always :) I like chocolate"
+"Great discussion section as always :) I like chocolate"
 
 "Great lab as always :)"
 
@@ -240,4 +238,4 @@ Weekly feedback
 
 "Thanks for being such a great TA! I had a great quarter because of you!"
 
---- 
+---

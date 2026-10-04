@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MATLAB
-description: Summer '23 (Remote) <br> Rating 8.26/9 
+description: Summer '23 (Remote) <br> Rating 8.26/9
 importance: 3
 category: Teaching Associate (UCLA)
 related_publications: false
@@ -14,8 +14,7 @@ Department of Psychology, University of California, Los Angeles (UCLA)
 
 ---
 
-Anonymous Student Evaluations
-======
+# Anonymous Student Evaluations
 
 Lalit was an amazing TA. From the very beginning, he made sure that the discussion was engaging and
 worth while for everyone who attended. He provided livescripts for Matlab that we were able to
@@ -71,10 +70,9 @@ The posted slides were useful
 
 Very helpful!
 
---- 
+---
 
-What do you think was the best part about the lab section/TA? 
-======
+# What do you think was the best part about the lab section/TA?
 
 The live scripts make it very interactive, keeps me engaged, and allows me to practice the skills I just learned.
 
@@ -94,4 +92,4 @@ Code examples with descriptions
 
 Thank you so much! It was very helpful
 
---- 
+---

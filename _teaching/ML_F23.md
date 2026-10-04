@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Machine Learning
-description: Fall '23 <br> Rating 8.71/9 
+description: Fall '23 <br> Rating 8.71/9
 importance: 1
 category: Teaching Associate (UCLA)
 related_publications: false
@@ -12,12 +12,9 @@ Machine Learning for Decision Making (MGMTMSA 401) <br>
 
 Master of Science in Business Analytics, Anderson School of Management, University of California, Los Angeles (UCLA)
 
-
 ---
 
-Anonymous Student Evaluations
-======
-
+# Anonymous Student Evaluations
 
 Strength: great TA overall. Weakness: only lead the TA session instead of the entire curriculum :)
 
@@ -91,11 +88,9 @@ strengths: structured material, good compliment and explanation provided for cou
 
 Your TA session really helped me a lot in understanding the course material and I appreciate the practicality of your tips/advices.
 
+---
 
---- 
-
-What do you think was the best part about the lab section/TA? 
-======
+# What do you think was the best part about the lab section/TA?
 
 YOU ARE GREAT LECTURER
 
@@ -116,7 +111,7 @@ very organized materials, explanation of the concept in the easy to understand w
 
 Going over each concepts and code blocks carefully
 
-Knowledgable, Frank and was able to explain things  nicely
+Knowledgable, Frank and was able to explain things nicely
 
 Related with the homework
 
@@ -138,13 +133,13 @@ Helping with assignments
 
 hw hints
 
-Providing additional color into why were are doing the questions that were assigned. They are meant to help us understand deeper a specific topic about machine learning. 
+Providing additional color into why were are doing the questions that were assigned. They are meant to help us understand deeper a specific topic about machine learning.
 
 Class Engagement and actually covering relevant material. Your enthusiasm was very much appreciated as well.
 
 chocolates
 
-Interactive session. 
+Interactive session.
 
 The session was very informative and interactive! I learned a lot in a lot less time
 
@@ -165,8 +160,7 @@ Hyperparameters is a useful method, would use it in the future.
 
 ---
 
-Weekly feedback
-======
+# Weekly feedback
 
 You are the best TA
 
@@ -213,12 +207,11 @@ Thank you lalit~
 
 ---
 
-Emails
-======
+# Emails
 
 "Hi Lalit,
 
-I hope this message finds you well. 
+I hope this message finds you well.
 
 I have completed the final project, and I wanted to take a moment to express my sincere gratitude to you.
 
@@ -226,21 +219,20 @@ Your passion for our cohort has been truly inspiring. Not only did you excel in 
 
 Thank you so much for your dedication and encouragement. I am confident that without your guidance, the journey through this ML course would have been much more challenging.
 
-Wishing you a future filled with continued success and new achievements. 
+Wishing you a future filled with continued success and new achievements.
 May your path be illuminated with countless victories!
 
 Best regards, <br>
 _a student,_ <br>
 MSBA 2024"
 
-
 "Dear Lalit,
 
-Thank you for being so understanding and being willing to help and support at all times. 
+Thank you for being so understanding and being willing to help and support at all times.
 
 It’s a pleasure for me to have you as our TA, you certainly had went above and beyond in helping and supporting us.
 
-Thank you so much Lalit! 
+Thank you so much Lalit!
 
 Sincerely, <br>
 _a student_"

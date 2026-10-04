@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MATLAB
-description: Spring '22 <br> Rating 8.54/9 
+description: Spring '22 <br> Rating 8.54/9
 importance: 1
 category: Teaching Assistant (UCLA)
 related_publications: false
@@ -14,8 +14,7 @@ Department of Psychology, University of California, Los Angeles (UCLA)
 
 ---
 
-Anonymous Student Evaluations
-======
+# Anonymous Student Evaluations
 
 "Lalit was the best TA I have ever had. He made coming to discussion feel worthwhile and made the
 concepts we needed to know in order to be successful in the course easily understandable. He was the
@@ -78,7 +77,7 @@ others to ask questions. He is also responsive over emails."
 lab section. I appreciated his respect for our time, and I wish I could have attended more of his sections.
 I think it was a little bit hard to understand him at times, but I also always was able to figure out what he
 meant. He made an effort to interact with the class, and although we weren't very responsive (tough
-crowd), I still noticed and it made him feel more approachable." 
+crowd), I still noticed and it made him feel more approachable."
 
 "TA worked hard to make the discussion engaging and provide useful information that would help us with
 our homework. He was also available during his office hours and would always help when needed.
@@ -105,10 +104,9 @@ Bhagat. I love Lalit Bhagat. I love Lalit Bhagat. I love Lalit Bhagat. I love La
 I love Lalit Bhagat. I love Lalit Bhagat. I love Lalit Bhagat. I love Lalit Bhagat. I love Lalit Bhagat. I love
 Lalit Bhagat. I love Lalit Bhagat..............."
 
---- 
+---
 
-Weekly feedback
-======
+# Weekly feedback
 
 "I don't wanna leave ( Any chance you can do the office hour even after the quarter ends haha just kidding Hope you have a great time! Thank you so much! :)."
 
@@ -144,4 +142,4 @@ Weekly feedback
 
 "thank you for being a great ta !! :D"
 
----  
+---
