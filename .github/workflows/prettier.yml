@@ -11,16 +11,43 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   check:
-    # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Setup Node.js ⚙️
         uses: actions/setup-node@v4
       - name: Install Prettier 💾
         run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+      - name: Format legacy files ✨
+        if: github.event_name == 'push'
+        run: >-
+          npx prettier
+          _config.yml
+          _news/announcement_2.md
+          _teaching/advanced_matlab_W23.md
+          _teaching/cognitive_psychology_winter_22.md
+          _teaching/matlab_spring_22.md
+          _teaching/matlab_summer_23.md
+          _teaching/ML_F23.md
+          _teaching/SQL_F22.md
+          --write
+      - name: Commit formatting fixes
+        if: github.event_name == 'push'
+        run: |
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add _config.yml _news/announcement_2.md _teaching/advanced_matlab_W23.md _teaching/cognitive_psychology_winter_22.md _teaching/matlab_spring_22.md _teaching/matlab_summer_23.md _teaching/ML_F23.md _teaching/SQL_F22.md
+            git commit -m "Format legacy content with Prettier"
+            git push
+          fi
       - name: Prettier Check 🔎
         run: npx prettier . --check
